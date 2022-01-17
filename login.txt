@@ -1,0 +1,20 @@
+<html>
+   <head>
+     <title> login </title>
+   </head>
+
+<body>
+<font size="10" color="red">
+<center> LOGIN </center>
+</font>
+
+<dir="rt1">
+write your name and password:
+<form>
+NAME <input type="text"> <br> <br>
+PASSWORD <input type="password"> <br> <br>
+</form>
+
+</body>
+
+</html>
