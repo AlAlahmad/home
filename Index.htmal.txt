@@ -1,0 +1,30 @@
+<html>
+   <head>
+     <title> Table Of Contents </title>
+   </head>
+
+<body>
+<font size="20" color="red">
+<center> INDEX </center>
+</font>
+<font size="16" color="red">
+<center> Table Of Contents </center>
+</font>
+<font size="10" color="blue">
+<center> WELCOME </center>
+</font>
+<font size="8" color="red">
+We have 256 visitors daily
+</font>
+.login
+<a href="file:///C:/Users/Lexicon/Desktop/Login.html">"LOGIN</a>
+.Contact us
+<a href="file:///C:/Users/Lexicon/Desktop/Login.html">"LOGIN</a>
+.Help
+<a href="file:///C:/Users/Lexicon/Desktop/Login.html">"LOGIN</a>
+
+
+
+</body>
+
+</html>
